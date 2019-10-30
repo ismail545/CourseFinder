@@ -11,4 +11,4 @@ code.
 
 ## Future Updates
 I am interested in packing the chromedriver with the code to save users configuration time. 
-To use the program, call it from the command line, and enter the correct paramter. 
+To use the program, call it from the command line, and enter the correct parameter. 

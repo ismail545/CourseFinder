@@ -1,4 +1,4 @@
-# UniLink
+# UniLink / CourseFinder
 This is a program which immediately opens the correct course material online. It is much quicker than doing so manually, and it allows the 
 user to make more use of his time elsewhere. It also saves the frustration of reading through all 11 or so module titles to find the 
 right one. 
